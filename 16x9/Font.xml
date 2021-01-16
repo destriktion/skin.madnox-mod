@@ -298,12 +298,12 @@
 			<name>Font_MainMenu</name>
 			<filename>Titillium.ttf</filename>
 			<style>uppercase</style>
-			<size>108</size>
+			<size>99</size>
 		</font>
 		<font>
 			<name>Font_MainMenu_Icons</name>
 			<filename>Titillium.ttf</filename>
-			<aspect>1.4</aspect>
+			<aspect>1.2</aspect>
 			<style>uppercase bold</style>
 			<size>34</size>
 		</font>
