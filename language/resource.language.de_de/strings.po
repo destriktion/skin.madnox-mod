@@ -14,6 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de_DE\n"
+"X-Generator: Poedit 2.2.4\n"
 
 #: /16x9/DialogAddonSettings.xml /16x9/Variables.xml /16x9/DialogTextViewer.xml
 #: /16x9/Custom_1100_TextViewer.xml
@@ -80,12 +81,12 @@ msgstr "Legen Sie den Typ fest, und fügen Sie Regeln hinzu, um eine intelligent
 #: /16x9/Variables.xml
 msgctxt "#31011"
 msgid "Returning"
-msgstr ""
+msgstr "Wiederkehrend"
 
 #: /16x9/Variables.xml
 msgctxt "#31012"
 msgid "Ended"
-msgstr ""
+msgstr "Beendet"
 
 #: /16x9/Variables.xml
 msgctxt "#31013"
@@ -145,54 +146,54 @@ msgstr "Speicher"
 #: /16x9/SkinSettings.xml
 msgctxt "#31024"
 msgid "Customise shortcut menu"
-msgstr ""
+msgstr "Shortcut-Menü anpassen"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31025"
 msgid "View options"
-msgstr ""
+msgstr "Optionen anzeigen"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31026"
 msgid "Predictive text for virtual keyboard"
-msgstr ""
+msgstr "Vorhersagetext für virtuelle Tastatur"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31027"
 msgid "Global override"
-msgstr ""
+msgstr "Globale Übersteuerung"
 
 #: /16x9/SkinSettings.xml /16x9/Custom_1110_Colors.xml
 msgctxt "#31028"
 msgid "Manage"
-msgstr ""
+msgstr "Verwalten"
 
 #: /16x9/Custom_1110_CustomSelectContainer.xml /16x9/Includes_MediaMenu.xml
 #: /16x9/SkinSettings.xml
 msgctxt "#31029"
 msgid "Video now playing background"
-msgstr ""
+msgstr "Video jetzt Hintergrund abgespielt"
 
 #: /16x9/Custom_1110_CustomSelectContainer.xml /16x9/Includes_MediaMenu.xml
 #: /16x9/SkinSettings.xml
 msgctxt "#31030"
 msgid "Music now playing background"
-msgstr ""
+msgstr "Musik jetzt Hintergrund abspielen"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31031"
 msgid "Enable day and night colour themes"
-msgstr ""
+msgstr "Aktivieren Sie Tag- und Nacht-Farbthemen"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31032"
 msgid "Theme for day time"
-msgstr ""
+msgstr "Themes für Tageszeit"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31033"
 msgid "Theme for night time"
-msgstr ""
+msgstr "Themes für Nachtzeit"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31034"
@@ -202,97 +203,97 @@ msgstr "Wetter Icons"
 #: /16x9/Variables.xml
 msgctxt "#31035"
 msgid "Extra fanart"
-msgstr ""
+msgstr "Extra Fanart"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31036"
 msgid "Fallback"
-msgstr ""
+msgstr "Fallback"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31037"
 msgid "Animated posters"
-msgstr ""
+msgstr "Animierte Poster"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31038"
 msgid "Animated background"
-msgstr ""
+msgstr "Animierter Hintergrund"
 
 #: /16x9/Home.xml /16x9/script-skinshortcuts.xml /16x9/SkinSettings.xml
 msgctxt "#31039"
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31040"
 msgid "Settings menu"
-msgstr ""
+msgstr "Einstellungen"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31041"
 msgid "Main menu"
-msgstr ""
+msgstr "Hauptmenü bearbeiten"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 #: /16x9/Custom_1110_Colors.xml
 msgctxt "#31042"
 msgid "Top bar"
-msgstr ""
+msgstr "Top Bar"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31043"
 msgid "Fixed list"
-msgstr ""
+msgstr "Feste Liste"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31044"
 msgid "Artwork"
-msgstr ""
+msgstr "Artwork"
 
 #: /16x9/Custom_1110_Colors.xml /16x9/SkinSettings.xml
 #: /16x9/Variables_Colors.xml
 msgctxt "#31045"
 msgid "Global default"
-msgstr ""
+msgstr "Globaler Standard"
 
 #: /16x9/Custom_1111_Topbar.xml
 msgctxt "#31046"
 msgid "Item Count"
-msgstr ""
+msgstr "Anzahl Einträge"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 #: /16x9/Custom_1110_Colors.xml
 msgctxt "#31047"
 msgid "Floor"
-msgstr ""
+msgstr "Floor"
 
 #: /16x9/SkinSettings.xml /16x9/Variables_Themes.xml
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31048"
 msgid "Shadow"
-msgstr ""
+msgstr "Schatten"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31049"
 msgid "Highlight"
-msgstr ""
+msgstr "Highlight"
 
 #: /16x9/script-skinshortcuts.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31050"
 msgid "Info line"
-msgstr ""
+msgstr "Infozeile"
 
 #: /16x9/Includes_MediaMenu.xml /16x9/SkinSettings.xml
 msgctxt "#31051"
 msgid "Texture"
-msgstr ""
+msgstr "Texture"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31052"
 msgid "Coloured"
-msgstr ""
+msgstr "Farbig"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31053"
@@ -2223,7 +2224,7 @@ msgstr ""
 #: /16x9/Includes_Settings.xml
 msgctxt "#31954"
 msgid "Install country icons for movies country node."
-msgstr ""
+msgstr "Installieren Sie Ländersymbole für die Länderknoten von Filmen."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31955"
@@ -2288,14 +2289,14 @@ msgstr ""
 #: /16x9/Includes_Settings.xml
 msgctxt "#31967"
 msgid "Player controls when media is playing."
-msgstr ""
+msgstr "Der Player steuert, wann die Medien wiedergegeben werden."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31968"
 msgid "Play the next tvshow episode automatically."
-msgstr ""
+msgstr "Die nächste Folge der TV-Show automatisch abspielen."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31969"
 msgid "Play themes while navigating TV Shows, Movies and Music Videos."
-msgstr ""
+msgstr "Spielen Sie Themen ab, während Sie durch Fernsehsendungen, Filme und Musikvideos navigieren."
