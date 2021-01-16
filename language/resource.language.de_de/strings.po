@@ -298,177 +298,177 @@ msgstr "Farbig"
 #: /16x9/SkinSettings.xml
 msgctxt "#31053"
 msgid "Country icons"
-msgstr ""
+msgstr "Ländersymbole"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31054"
 msgid "Default backgrounds"
-msgstr ""
+msgstr "Standardhintergründe"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31055"
 msgid "Weather fanart"
-msgstr ""
+msgstr "Wetter fanart"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31056"
 msgid "Panel"
-msgstr ""
+msgstr "Panel"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31057"
 msgid "Installed"
-msgstr ""
+msgstr "Installiert"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31058"
 msgid "Not installed"
-msgstr ""
+msgstr "Nicht installiert"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31059"
 msgid "Layout"
-msgstr ""
+msgstr "Layout"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31060"
 msgid "Language flags"
-msgstr ""
+msgstr "Sprachflaggen"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml /16x9/script-skinshortcuts.xml
 msgctxt "#31061"
 msgid "Icon"
-msgstr ""
+msgstr "Icon"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31062"
 msgid "Coloured icons"
-msgstr ""
+msgstr "Farbige Symbole"
 
 #: /16x9/Includes_MediaFlags.xml
 msgctxt "#31063"
 msgid "On air"
-msgstr ""
+msgstr "Live"
 
 #: /16x9/Includes_MediaFlags.xml
 msgctxt "#31064"
 msgid "Last aired"
-msgstr ""
+msgstr "Last Aired"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31065"
 msgid "Visualisation settings"
-msgstr ""
+msgstr "Dateieinstellungen"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31066"
 msgid "Choose presets"
-msgstr ""
+msgstr "Wähle eine Ausführung"
 
 #: /16x9/DialogSubtitles.xml
 msgctxt "#31067"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Lokale Untertitel verfügbar"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31068"
 msgid "Lyrics add-on"
-msgstr ""
+msgstr "Lyrics Add-on"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31069"
 msgid "Lyrics add-on settings"
-msgstr ""
+msgstr "Lyrics Add-on Einstellungen"
 
 #: /16x9/View_507_FanartList.xml
 msgctxt "#31070"
 msgid "Fanart list"
-msgstr ""
+msgstr "Extra Fanart"
 
 #: /16x9/View_700_RightList.xml
 msgctxt "#31071"
 msgid "Right list"
-msgstr ""
+msgstr "Rechte Liste"
 
 #: /16x9/DialogFullScreenInfo.xml
 msgctxt "#31072"
 msgid "Premiered"
-msgstr ""
+msgstr "Uraufführung"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31073"
 msgid "Video decoder"
-msgstr ""
+msgstr "Video Decoder"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31074"
 msgid "Pixel format"
-msgstr ""
+msgstr "Pixelformat"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31075"
 msgid "Decoding"
-msgstr ""
+msgstr "Dekodierung"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31076"
 msgid "Movie set cover background"
-msgstr ""
+msgstr "Filmset-Cover-Hintergrund"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31077"
 msgid "Signal"
-msgstr ""
+msgstr "Signal"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31078"
 msgid "Furniture"
-msgstr ""
+msgstr "Furniture"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31079"
 msgid "Prefer plot outline"
-msgstr ""
+msgstr "Handlungsschema bevorzugen"
 
 #: /16x9/MyVideoNav.xml
 msgctxt "#31080"
 msgid "Edit Nodes"
-msgstr ""
+msgstr "Knoten bearbeiten"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31081"
 msgid "Media menu buttons"
-msgstr ""
+msgstr "Tasten des Medienmenüs"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31082"
 msgid "Info dialogs"
-msgstr ""
+msgstr "Infozeile"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31083"
 msgid "Favourites script"
-msgstr ""
+msgstr "Favoriten-Skript"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31084"
 msgid "Case"
-msgstr ""
+msgstr "Case"
 
 #: /16x9/Custom_1127_BackgroundCustomizer.xml
 msgctxt "#31085"
 msgid "Overlay"
-msgstr ""
+msgstr "Overlay"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31086"
 msgid "Video playlist"
-msgstr ""
+msgstr "Video-Wiedergabeliste"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31087"
 msgid "Embuary info"
-msgstr ""
+msgstr "Embuary Info"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31088"
@@ -478,7 +478,7 @@ msgstr ""
 #: /16x9/MyVideoNav.xml
 msgctxt "#31089"
 msgid "Add node"
-msgstr ""
+msgstr "Knoten hinzufügen"
 
 #: /16x9/MyWeather.xml
 msgctxt "#31090"
@@ -1494,17 +1494,17 @@ msgstr ""
 #: /16x9/SkinSettings.xml
 msgctxt "#31292"
 msgid "Custom favourites"
-msgstr ""
+msgstr "Benutzerdefinierte Favoriten"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31293"
 msgid "Favourite"
-msgstr ""
+msgstr "Favorit"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31294"
 msgid "Custom favourite addons"
-msgstr ""
+msgstr "Benutzerdefinierte Favoriten-Addons"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31295"
@@ -1524,7 +1524,7 @@ msgstr ""
 #: /16x9/SkinSettings.xml
 msgctxt "#31298"
 msgid "Select theme"
-msgstr ""
+msgstr "Themes wählen"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31299"
@@ -2199,7 +2199,7 @@ msgstr ""
 #: /16x9/Includes_Settings.xml
 msgctxt "#31949"
 msgid "Install record label icons for use throughout the skin."
-msgstr ""
+msgstr "Installieren Sie Plattenlabelsymbole zur Verwendung im gesamten Skin."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31950"
