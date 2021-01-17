@@ -14,12 +14,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: de_DE\n"
-"X-Generator: Poedit 2.2.4\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: /16x9/DialogAddonSettings.xml /16x9/Variables.xml /16x9/DialogTextViewer.xml
 #: /16x9/Custom_1100_TextViewer.xml
 #: /16x9/script-skin_helper_service-ColorPicker.xml
-#, fuzzy
 msgctxt "#31000"
 msgid "Page"
 msgstr "Seite"
@@ -608,12 +607,12 @@ msgstr "Carbon"
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31115"
 msgid "Pixels"
-msgstr ""
+msgstr "Pixels"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31116"
 msgid "Steel plate"
-msgstr ""
+msgstr "Stahlplatte"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31117"
@@ -623,177 +622,177 @@ msgstr "Hintergrundbilder"
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31118"
 msgid "Wood"
-msgstr ""
+msgstr "Holz"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31119"
 msgid "Wrinkles"
-msgstr ""
+msgstr "Falten"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31120"
 msgid "Center"
-msgstr ""
+msgstr "Center"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31121"
 msgid "Icons wide"
-msgstr ""
+msgstr "Icons breit"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31122"
 msgid "Big icons wide"
-msgstr ""
+msgstr "Grosse Icons breit"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31123"
 msgid "Logo"
-msgstr ""
+msgstr "Logo"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31124"
 msgid "Required"
-msgstr ""
+msgstr "Erforderlich"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31125"
 msgid "Recommended"
-msgstr ""
+msgstr "Empfohlen"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31126"
 msgid "Optional"
-msgstr ""
+msgstr "Optional"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31127"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31128"
 msgid "Dialog"
-msgstr ""
+msgstr "Dialog"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31129"
 msgid "style"
-msgstr ""
+msgstr "Style"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31130"
 msgid "Square"
-msgstr ""
+msgstr "Quadratisch"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31131"
 msgid "Emboss"
-msgstr ""
+msgstr "Prägung"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31132"
 msgid "texture"
-msgstr ""
+msgstr "Texture"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31133"
 msgid "Pattern"
-msgstr ""
+msgstr "Muster"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31134"
 msgid "Gradient"
-msgstr ""
+msgstr "Farbverlauf"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31135"
 msgid "Brushed"
-msgstr ""
+msgstr "Gebürstet"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31136"
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31137"
 msgid "Subtext"
-msgstr ""
+msgstr "Untertitel"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31138"
 msgid "Focus text"
-msgstr ""
+msgstr "Fokustext"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31139"
 msgid "List separator"
-msgstr ""
+msgstr "Trennzeichen"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31140"
 msgid "White media flags"
-msgstr ""
+msgstr "Weiße Mediaflags"
 
 #: 31140 /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31141"
 msgid "System bar"
-msgstr ""
+msgstr "System Bar"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31142"
 msgid "Submenu bar"
-msgstr ""
+msgstr "Untermenü Bar"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31143"
 msgid "RSS bar"
-msgstr ""
+msgstr "RSS Bar"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31144"
 msgid "layout"
-msgstr ""
+msgstr "Layout"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31145"
 msgid "Effects"
-msgstr ""
+msgstr "Effekte"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31146"
 msgid "Leaves"
-msgstr ""
+msgstr "Blätter"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31147"
 msgid "Confetti"
-msgstr ""
+msgstr "Konfetti"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31148"
 msgid "Valentine"
-msgstr ""
+msgstr "Valentine"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31149"
 msgid "Easter"
-msgstr ""
+msgstr "Ostern"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31150"
 msgid "Concrete"
-msgstr ""
+msgstr "Konkret"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31151"
 msgid "Media menu"
-msgstr ""
+msgstr "Medienmenü"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31152"
 msgid "Focus icon"
-msgstr ""
+msgstr "Fokus Icon"
 
 #: /16x9/Variables.xml
 msgctxt "#31153"
@@ -803,62 +802,62 @@ msgstr "PVR Kanäle"
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31154"
 msgid "Movies and TV shows"
-msgstr ""
+msgstr "Filme und TV-Shows"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31155"
 msgid "Video and music add-ons"
-msgstr ""
+msgstr "Video- und Musik Add-Ons"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31156"
 msgid "Weather icon"
-msgstr ""
+msgstr "Wetter Icon"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31157"
 msgid "Nofocus text"
-msgstr ""
+msgstr "No Fokus Text"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31158"
 msgid "Nofocus icon"
-msgstr ""
+msgstr "No Fokus Icon"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31159"
 msgid "Now playing progress"
-msgstr ""
+msgstr "Video jetzt Hintergrund abgespielt"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31160"
 msgid "Top bar / Main menu bars"
-msgstr ""
+msgstr "Top Bar - Hauptmenü"
 
 #: 31160 /16x9/Includes_CustomSelect.xml
 msgctxt "#31161"
 msgid "Extended info"
-msgstr ""
+msgstr "Erweiterte Info"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31162"
 msgid "Character art"
-msgstr ""
+msgstr "Charakter Art"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31163"
 msgid "Prefer info"
-msgstr ""
+msgstr "Info bevorzugen"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31164"
 msgid "Blur background"
-msgstr ""
+msgstr "Unscharfer Hintergrund"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31165"
 msgid "Clear art"
-msgstr ""
+msgstr "Klare Art"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31166"
@@ -883,12 +882,12 @@ msgstr "Musikinfo"
 #: /16x9/Includes_MediaMenu.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31170"
 msgid "Audio info"
-msgstr ""
+msgstr "Audio Info"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31171"
 msgid "Glass"
-msgstr ""
+msgstr "Glas"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31172"
@@ -903,17 +902,17 @@ msgstr "Live-TV"
 #: /16x9/SkinSettings.xml
 msgctxt "#31174"
 msgid "Disabled text"
-msgstr ""
+msgstr "Text deaktiviert"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31175"
 msgid "Default texture"
-msgstr ""
+msgstr "Standard-Texture"
 
 #: 31175 /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31176"
 msgid "case"
-msgstr ""
+msgstr "Case"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31177"
@@ -928,453 +927,453 @@ msgstr "Visualisierung Audio-Info"
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31179"
 msgid "fanart"
-msgstr ""
+msgstr "Fanart"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31180"
 msgid "Audio background"
-msgstr ""
+msgstr "Audio-Hintergrund"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31181"
 msgid "Video background"
-msgstr ""
+msgstr "Video-Hintergrund"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31182"
 msgid "Vinyl"
-msgstr ""
+msgstr "Vinyl"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31183"
 msgid "Blu-ray"
-msgstr ""
+msgstr "BluRay"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31184"
 msgid "White"
-msgstr ""
+msgstr "Weiss"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31185"
 msgid "Blue"
-msgstr ""
+msgstr "Blau"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31186"
 msgid "Golden"
-msgstr ""
+msgstr "Gold"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31187"
 msgid "Green"
-msgstr ""
+msgstr "Grün"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31188"
 msgid "Grey"
-msgstr ""
+msgstr "Grau"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31189"
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31190"
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31191"
 msgid "Red"
-msgstr ""
+msgstr "Rot"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31192"
 msgid "Skin helper extended art"
-msgstr ""
+msgstr "Skin-Helfer erweiterte Art"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31193"
 msgid "On info"
-msgstr ""
+msgstr "On Info"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31194"
 msgid "Persistant"
-msgstr ""
+msgstr "Dauerhaft"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31195"
 msgid "Animated"
-msgstr ""
+msgstr "Animiert"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31196"
 msgid "Background now playing info"
-msgstr ""
+msgstr "Hintergrund jetzt spielen Info"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31197"
 msgid "Automatically open fullscreen music on play"
-msgstr ""
+msgstr "Automatisches Öffnen von Musik im Vollbildmodus bei der Wiedergabe"
 
 #: /16x9/Variables.xml
 msgctxt "#31198"
 msgid "Forward"
-msgstr ""
+msgstr "Vorwärts"
 
 #: /16x9/Variables.xml
 msgctxt "#31199"
 msgid "Rewind"
-msgstr ""
+msgstr "Zurückspulen"
 
 #: /16x9/Variables.xml
 msgctxt "#31200"
 msgid "Internet stream"
-msgstr ""
+msgstr "Internetstream"
 
 #: /16x9/Variables.xml
 msgctxt "#31201"
 msgid "Landscape"
-msgstr ""
+msgstr "Landschaft"
 
 #: /16x9/Variables.xml
 msgctxt "#31202"
 msgid "Clear logo"
-msgstr ""
+msgstr "Klares Logo"
 
 #: /16x9/Variables.xml
 msgctxt "#31203"
 msgid "Portrait"
-msgstr ""
+msgstr "Portrait"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31204"
 msgid "Recently released"
-msgstr ""
+msgstr "Kürzlich aufgenommen"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31205"
 msgid "Recommended"
-msgstr ""
+msgstr "Empfohlen"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31206"
 msgid "Most played"
-msgstr ""
+msgstr "Meistgespielt"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31207"
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 #: /16x9/Variables.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31208"
 msgid "Bottom"
-msgstr ""
+msgstr "Untern"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31209"
 msgid "Top"
-msgstr ""
+msgstr "Oben"
 
 #: /16x9/Variables.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31210"
 msgid "Big"
-msgstr ""
+msgstr "Gross"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31211"
 msgid "Movie/TV show info"
-msgstr ""
+msgstr "Movie/TV-Show info"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31212"
 msgid "Big list"
-msgstr ""
+msgstr "Grosse Liste"
 
 #: /16x9/View_050_PosterList.xml /16x9/Custom_1115_ViewSettings.xml
 #: /16x9/Includes_MediaFlags.xml
 msgctxt "#31213"
 msgid "Poster list"
-msgstr ""
+msgstr "Poster Liste"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31214"
 msgid "Reflect"
-msgstr ""
+msgstr "Spiegeln"
 
 #: /16x9/View_051_SimpleList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31215"
 msgid "Simple list"
-msgstr ""
+msgstr "Einfache Liste"
 
 #: /16x9/View_501_BigSimpleList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31216"
 msgid "Big simple list"
-msgstr ""
+msgstr "Grosse einfache Liste"
 
 #: /16x9/View_052_TwinList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31217"
 msgid "Twin list"
-msgstr ""
+msgstr "Twin-Liste"
 
 #: /16x9/View_502_BigTwinList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31218"
 msgid "Big twin list"
-msgstr ""
+msgstr "Grosse Twin-Liste"
 
 #: /16x9/View_053_InfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31219"
 msgid "Info list 1"
-msgstr ""
+msgstr "Info Liste 1"
 
 #: /16x9/View_503_BigInfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31220"
 msgid "Big info list 1"
-msgstr ""
+msgstr "Grosse Info Liste 1"
 
 #: /16x9/View_054_InfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31221"
 msgid "Info list 2"
-msgstr ""
+msgstr "Info Liste 2"
 
 #: /16x9/View_504_BigInfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31222"
 msgid "Big info list 2"
-msgstr ""
+msgstr "Grosse Info Liste 2"
 
 #: /16x9/View_55_LowList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31223"
 msgid "Low list"
-msgstr ""
+msgstr "Untere Liste"
 
 #: /16x9/View_505_LowList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31224"
 msgid "Big low list"
-msgstr ""
+msgstr "Grosse untere Liste"
 
 #: /16x9/View_56_3Panel.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31225"
 msgid "3 panel"
-msgstr ""
+msgstr "3 Panel"
 
 #: /16x9/View_506_Big3Panel.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31226"
 msgid "Big 3 panel"
-msgstr ""
+msgstr "Gross 3 Panel"
 
 #: /16x9/Variables.xml
 msgctxt "#31227"
 msgid "Premiered"
-msgstr ""
+msgstr "Uraufführung"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31228"
 msgid "Video preview window"
-msgstr ""
+msgstr "Video-Vorschaufenster"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31229"
 msgid "Icon size"
-msgstr ""
+msgstr "Icon Größe"
 
 #: /16x9/View_553_ShowCase.xml
 msgctxt "#31230"
 msgid "Showcase"
-msgstr ""
+msgstr "Schaufenster"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31231"
 msgid "2 thumbs"
-msgstr ""
+msgstr "2 Thumbs"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31232"
 msgid "4 thumbs"
-msgstr ""
+msgstr "4 Thumbs"
 
 #: /16x9/View_57_3PanelSquare.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31233"
 msgid "3 panel square"
-msgstr ""
+msgstr "3 Panel quadratisch"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31234"
 msgid "Media flags"
-msgstr ""
+msgstr "Media Flags"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31235"
 msgid "Small icons"
-msgstr ""
+msgstr "Kleine Icons"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31236"
 msgid "Album case"
-msgstr ""
+msgstr "Album Case"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31237"
 msgid "Video case"
-msgstr ""
+msgstr "Video Case"
 
 #: /16x9/View_051_SimpleList.xml
 msgctxt "#31238"
 msgid "Cover list"
-msgstr ""
+msgstr "Cover Liste"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31239"
 msgid "Cover flow portrait"
-msgstr ""
+msgstr "Cover Fluss Quadrat"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31240"
 msgid "Press up for info"
-msgstr ""
+msgstr "Nach oben für Infos"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31241"
 msgid "Cover flow square"
-msgstr ""
+msgstr "Cover Fluss Quadrat"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31242"
 msgid "Cover flow banner"
-msgstr ""
+msgstr "Cover Fluss Banner"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31243"
 msgid "Cover flow landscape"
-msgstr ""
+msgstr "Fließlandschaft"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31244"
 msgid "Open case"
-msgstr ""
+msgstr "Offener Fall"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31245"
 msgid "Focus"
-msgstr ""
+msgstr "Fokus"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31246"
 msgid "Cascade"
-msgstr ""
+msgstr "Kaskaden"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31247"
 msgid "Kodiflix"
-msgstr ""
+msgstr "Kodiflix"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31248"
 msgid "Portrait icon"
-msgstr ""
+msgstr "Portrait Icon"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31249"
 msgid "Banner icon"
-msgstr ""
+msgstr "Banner Icon"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31250"
 msgid "Landscape icon"
-msgstr ""
+msgstr "Icon Querformat"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31251"
 msgid "Portrait icon info"
-msgstr ""
+msgstr "Portrait Icon info"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31252"
 msgid "Banner icon info"
-msgstr ""
+msgstr "Banner-Icon Info"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31253"
 msgid "Landscape icon info"
-msgstr ""
+msgstr "Querformat-Icon Info"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31254"
 msgid "Portrait wall"
-msgstr ""
+msgstr "Portrait Wand"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31255"
 msgid "Square wall"
-msgstr ""
+msgstr "Quadratische Wand"
 
 #: /16x9/View_542_BannerWall.xml
 msgctxt "#31256"
 msgid "Banner wall"
-msgstr ""
+msgstr "Banner Wand"
 
 #: /16x9/View_543_LandscapeWall.xml
 msgctxt "#31257"
 msgid "Landscape wall"
-msgstr ""
+msgstr "Landschaftliche Wand"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31258"
 msgid "Focus square"
-msgstr ""
+msgstr "Fokus Quadrat"
 
 #: /16x9/Custom_1116_ViewMode.xml
 msgctxt "#31259"
 msgid "Cover"
-msgstr ""
+msgstr "Cover"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31260"
 msgid "Square icon"
-msgstr ""
+msgstr "Quadratische Icon"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31261"
 msgid "Square icon info"
-msgstr ""
+msgstr "Quadratische Icon-Info"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31262"
 msgid "Kodiflix square"
-msgstr ""
+msgstr "Kodiflix Quadrat"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31263"
 msgid "Cascade square"
-msgstr ""
+msgstr "Kaskaden"
 
 #: /16x9/Custom_1116_ViewMode.xml
 msgctxt "#31264"
 msgid "Showcase square"
-msgstr ""
+msgstr "Schaufenster"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31265"
 msgid "Kodiflix landscape"
-msgstr ""
+msgstr "Kodiflix Landschaft"
 
 #: /16x9/Custom_1116_ViewMode.xml
 msgctxt "#31266"
 msgid "Simple"
-msgstr ""
+msgstr "Einfach"
 
 #: /16x9/Custom_1116_ViewMode.xml
 msgctxt "#31267"
 msgid "Info 1"
-msgstr ""
+msgstr "Info 1"
 
 #: /16x9/Custom_1116_ViewMode.xml
 msgctxt "#31268"
 msgid "Info 2"
-msgstr ""
+msgstr "Info 2"
 
 #: /16x9/Custom_1116_ViewMode.xml
 msgctxt "#31269"
@@ -1404,22 +1403,22 @@ msgstr "Info-Verzögerung"
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31274"
 msgid "Install genre icons"
-msgstr ""
+msgstr "Installieren von Genre Icons"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31275"
 msgid "B/W genre icons"
-msgstr ""
+msgstr "B/W Genre Icons"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31276"
 msgid "Install colour genre icons"
-msgstr ""
+msgstr "Installieren von Farbgenre-Icons"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31277"
 msgid "Install B/W genre icons"
-msgstr ""
+msgstr "Installieren von B/W Genre-Icons"
 
 #: /16x9/View_058_BannerList.xml
 msgctxt "#31278"
