@@ -30,7 +30,7 @@ msgstr "Seite"
 #: /16x9/DialogSubtitles.xml
 msgctxt "#31001"
 msgid "Items"
-msgstr "Elemente"
+msgstr "Einträge"
 
 #: /16x9/Home.xml /16x9/Variables.xml /16x9/Custom_1111_Topbar.xml
 msgctxt "#31002"
